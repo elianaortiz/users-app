@@ -1,0 +1,11 @@
+header{
+    background-color: rgba(245, 237, 237, 0.471);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1rem;
+    align-items: center;
+}
+.logo {
+    width: 120px;
+}

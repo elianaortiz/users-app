@@ -1,0 +1,23 @@
+.card-container {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 1rem;
+  width: 90vw;
+  height: auto;
+  flex-wrap: wrap;
+  margin: 15px auto;
+}
+.card{
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(244, 244, 243);
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
+  width: 290px;
+}
+.card h2 {
+  font-size: 26px;
+  text-align: center;
+}
